@@ -1,0 +1,106 @@
+Aptitude Assignment 6
+============================
+1. A does 4/5 th of work in 3/5 of time as compared to B. Together they finish the work
+in 12 days. In how many days A alone will complete the work?
+
+Ans.Let the time taken by B to complete the work alone be x days.
+So, the time taken by A to complete the work alone would be (3/5)x days.
+Together, their combined work rate would be x/(4/5) + x = 1.8x days.
+As per the given, the combined work rate of A and B is 12 days.
+So, 1.8x = 12
+=> x = 6.7
+
+The time taken by A alone to complete the work would be (3/5)x = (3/5)(6.7) = 4 days.
+
+
+2. 1 men , 3 women and 4 children finish work in 96 hour while 2 men and 8 children
+finish the work in 80 hours, and 2 men and 3 women finish the same work in 120
+hours. Find the time in which the work can be completed by 10 men and 5 women?
+
+Ans. 
+
+1 man,3wowen,and 4 children do work in 96 hours
+
+1m+4c+3w =96hours ---(1)
+
+2 man and 8 childrean can completed the same work in 80 hours
+2m+8C =80 hours ------(2)
+
+2man and 3 women can complete the same work in 120 hours
+2m +3w=120 ---(3)
+
+ Efficency(E) = Work(W)/Time(T)
+
+2m+8c=6-> 1m +4c=3 --(4)
+
+1m+4c+3w=5
+
+(3)+3w =5 
+
+w=2/3 -----(5)
+
+2m+3w=4
+
+
+
+2m+2=4
+m=1 -----(6)
+
+ from equations (5) and (6),
+10m+5w=(10*1)+[5*2/3]
+10m+5w=40/3
+10 man and 5 women complete the work =Totalwork /efficency =480/(40/3)=36hours.
+
+
+
+3. The sales of a cinema ticket increase by 57 1/7 %, and the price of tickets also
+increases by 16 2/3%. Find the percentage increase in the revenue collection?
+
+Ans.The overall increase in revenue depends on both the increase in sales and the increase in price. To find the percentage increase in revenue, we need to multiply the price of a ticket by the increase in both price and sales.
+
+Let's call the original price of a ticket "P".
+
+The price after the 16 2/3% increase is:
+P * (1 + 16 2/3%) = P * 1.166
+
+The price after the 57 1/7% increase in sales is:
+P * 1.166 * (1 + 57 1/7%) = P * 1.166 * 1.571
+
+Therefore, the percentage increase in revenue is:
+100 * (P * 1.166 * 1.571 - P) / P = 100 * (1.166 * 1.571 - 1) = 100 * 0.71557 = 71.56 %
+
+So, the revenue collection increased by 71.56%.
+
+4. In a garrison, there was sufficient food for 1600 soldiers for 60 days. Each soldier
+consumes 900 grams of food every day. After 40 days, 400 soldiers left the camp.
+How long the food will last for the remaining soldiers if they consume 1000 grams of
+food every day.?
+
+Ans. Let's assume the number of remaining soldiers after 40 days is "x".
+So, initially, the total consumption of food per day was 1600 * 900 = 144000 grams.
+And after 40 days, it became x * 1000 grams.
+The total food available is sufficient for 60 days, so
+144000 * 60 = x * 1000 * t
+where t is the number of days the food will last for the remaining soldiers.
+Solving for t, we get t = 60 * 144000 / (x * 1000) = 720000 / x.
+
+
+5. A dealer sold a bicycle at a profit of 10%. Had he bought the bicycle at 10% less price
+and sold it at a price Rs. 60 more, he would have gained 25%. The cost price of the
+bicycle was?
+
+Ans.
+
+Let's call the cost price of the bicycle "x."
+
+According to the first condition, the selling price of the bicycle was 1.1x.
+
+According to the second condition, the selling price was 1.25(x-0.1x+60) = 1.25x + 75.
+
+Equating the two selling prices:
+1.1x = 1.25x + 75
+
+Solving for x:
+x = 750.
+
+The cost price of the bicycle was 750.
